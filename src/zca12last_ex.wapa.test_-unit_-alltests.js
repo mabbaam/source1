@@ -1,0 +1,1 @@
+sap.ui.define(["zca12last_ex/test/unit/controller/View1.controller"],function(){"use strict"});                                                                                                                                                                
